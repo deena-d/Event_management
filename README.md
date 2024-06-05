@@ -28,7 +28,7 @@ Make sure you have Node.js and npm installed on your machine. You can download N
 
 1. **Clone the Repository**
 
-   git clone https://github.com/your-username/event-management.git
+   git clone [https://github.com/your-username/event-management.git](https://github.com/deena-d/Event_management)
    cd event-management
 2. **Install Dependencies**
   npm install
@@ -68,7 +68,7 @@ Fork the Repository: Click the "Fork" button at the top right of this repository
 
 Clone Your Fork: Clone your forked repository to your local machine.
 
-git clone https://github.com/your-username/event-management.git
+git clone [https://github.com/your-username/event-management.git](https://github.com/deena-d/Event_management)
 Create a Branch: Create a new branch for your feature or bug fix.
 
 git checkout -b feature/your-feature-name
@@ -91,13 +91,7 @@ For any inquiries or issues, please contact us at [ddeena832004@gmail.com].
 
 Thank you for using our Event Management platform. We hope you find it useful and easy to use.
 
-### Notes
 
-- Replace `https://github.com/your-username/event-management.git` with the actual URL of your GitHub repository.
-- Replace `your-email@example.com` with your contact email.
-- Add or modify sections as necessary to suit your project's specific details.
-
-### DEMO VIDEO
 
 
 https://github.com/deena-d/Event_management/assets/107647091/aad8611f-7bc7-43ba-84bb-26b4fafce261
