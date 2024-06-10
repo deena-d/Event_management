@@ -50,15 +50,25 @@ npm run serve
 
 event-management/
 ├── public/                 # Static files
+
 ├── src/                    # Source files
+
 │   ├── components/         # React components
+
 │   ├── pages/              # React pages
+
 │   ├── App.jsx             # Main App component
+
 │   ├── index.jsx           # Entry point
+
 │   └── ...                 # Other files
+
 ├── .gitignore              # Git ignore file
+
 ├── package.json            # npm scripts and dependencies
+
 ├── vite.config.js          # Vite configuration file
+
 └── README.md               # Project documentation
 
 **Contributing**
@@ -92,7 +102,5 @@ For any inquiries or issues, please contact us at [ddeena832004@gmail.com].
 Thank you for using our Event Management platform. We hope you find it useful and easy to use.
 
 
-
-
-https://github.com/deena-d/Event_management/assets/107647091/aad8611f-7bc7-43ba-84bb-26b4fafce261
+https://github.com/deena-d/Event_management/assets/107647091/01c2879e-13c4-4510-bd96-a4deb769edc8
 
